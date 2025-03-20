@@ -1,0 +1,9 @@
+body {
+  background-color: aquamarine;
+}
+
+img,
+button {
+  display: block;
+  color: rgba(0, 0, 0, 0.393);
+}
